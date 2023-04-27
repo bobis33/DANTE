@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#other
+*.o
+*.a
+vgcore*
+coding-style-reports.log
+generator/generator
+solver/solver
