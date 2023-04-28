@@ -16,7 +16,9 @@ See the subject for further details !
 
 
 <br> <br/>
-### This project has been realized in solo :
+### This project has been realized in duo :
+
+* jules.sourbets@epitech.eu
 
 * elliot.masina@epitech.eu
 
